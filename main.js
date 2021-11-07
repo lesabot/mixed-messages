@@ -1,4 +1,4 @@
-const ingredientList = (num) => {
+const ingredientList = () => {
   const measures = ['C','T','t','dash']; // Consider making gloabls
   const volumes = ['1/4','1/2','1']      // But not worried about speed right now
   const ingredients = ['flour', 'sugar', 'milk', 'eggs', 'baking powder', 'cinnamon']
